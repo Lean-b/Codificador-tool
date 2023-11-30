@@ -28,7 +28,7 @@ Codificador con Python.
 - Tipos de bases: 64/32/16
 
 ## Otro comandos
-- Salida
+- 
   ```
   [-c CODIFICAR] --> python codificador.py -c
   [-d DECODIFICAR] --> python codificador.py -d
