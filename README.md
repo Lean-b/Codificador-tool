@@ -2,9 +2,9 @@ Codificador con Python.
 ===
 
 ## Informacion 
-- Title:  `Codificador`
-- Authors:  `Leandro(Kirov)`
-- Video: [video position]()
+- Titulo:  `Codificador`
+- Autor:  `Leandro(Kirov)`
+
 
 
 ## Como utilizar
@@ -27,7 +27,7 @@ Codificador con Python.
 
 - Tipos de bases: 64/32/16
 
-## Otros comandos
+## Otro comandos
 - Salida
   ```
   [-c CODIFICAR] --> python codificador.py -c
@@ -40,7 +40,5 @@ Codificador con Python.
   [-d16 DECODIFICAR16] --> python codificador.py -d16
   ```
 
-  
-## License
 
 
